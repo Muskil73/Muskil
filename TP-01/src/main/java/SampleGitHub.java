@@ -6,6 +6,7 @@ public class SampleGitHub {
 		
 		System.out.println("six ku apron seven");
 		System.out.println("Muskil Moracha Emman");
+		System.out.println("Sirum Pambai nambu Sirikkum pennai nambathey ");
 
 	}
 
